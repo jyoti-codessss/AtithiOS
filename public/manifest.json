@@ -1,0 +1,17 @@
+{
+  "short_name": "AtithiOS",
+  "name": "AtithiOS — Tourism Trust Protocol",
+  "description": "Verifying Every Host. Empowering Every Traveler. Direct local stays with transparent pricing.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0E3B36",
+  "background_color": "#F5F7F3",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ]
+}
